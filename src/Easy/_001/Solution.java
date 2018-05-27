@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Problem 001. Two Sum
+ * Problem_001 Two Sum
  * @Author: guoyuting
  * @date: 2018-5-25 16:12
  */
